@@ -1,0 +1,72 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{puniaElectrographicClinicalNatural2017}
+V.~Punia, R.~Vakani, R.~Burgess, S.~Hantus, Electrographic and {{Clinical
+  Natural History}} of {{Lateralized Periodic Discharges}}, Journal of Clinical
+  Neurophysiology 35 (2017) 1.
+\newblock \href {https://doi.org/10.1097/WNP.0000000000000428}
+  {\path{doi:10.1097/WNP.0000000000000428}}.
+
+\bibitem{staerkAtrialFibrillation2017}
+L.~Staerk, J.~A. Sherer, D.~Ko, E.~J. Benjamin, R.~H. Helm, Atrial
+  {{Fibrillation}}, Circulation Research 120~(9) (2017) 1501--1517.
+\newblock \href {https://doi.org/10.1161/CIRCRESAHA.117.309732}
+  {\path{doi:10.1161/CIRCRESAHA.117.309732}}.
+
+\bibitem{osmanElectrographicPredictorsElectrographic2018}
+G.~Osman, R.~Rahangdale, S.~Hantus, A.~Herlopian, S.~Hocker, J.~Britton, J.~W.
+  Lee, B.~Legros, M.~Mendoza, V.~Punia, A.~Wallace, M.~B. Westover, E.~Gilmore,
+  L.~Hirsch, N.~Gaspard, Electrographic {{Predictors}} of {{Electrographic
+  Seizures}} and {{Electrographic Status Epilepticus}} in {{Patients}} with
+  {{Bilateral Independent Periodic Discharges}}: {{A Retrospective Multi-Center
+  Study}} (Dec. 2018).
+
+\bibitem{lippiGlobalEpidemiologyAtrial2021}
+G.~Lippi, F.~{Sanchis-Gomar}, G.~Cervellin, Global epidemiology of atrial
+  fibrillation: {{An}} increasing epidemic and public health challenge,
+  International Journal of Stroke: Official Journal of the International Stroke
+  Society 16~(2) (2021) 217--221.
+\newblock \href {https://doi.org/10.1177/1747493019897870}
+  {\path{doi:10.1177/1747493019897870}}.
+
+\bibitem{chuaDynamicChangesCardiovascular2021}
+W.~Chua, L.~Di~Biase, A.~Luna, C.~David, D.~Haase, G.~Hindricks, K.~Hauesler,
+  R.~{Al-Hussein}, J.~Piccini, L.~Mont, J.~Nielsen, L.~Escobar, L.~Bono,
+  L.~Fabritz, P.~Kirchhof, Dynamic changes of cardiovascular biomarkers after
+  ablation for atrial fibrillation: Observations from {{AXAFA-AFNET5}},
+  European Heart Journal 42 (Oct. 2021).
+\newblock \href {https://doi.org/10.1093/eurheartj/ehab724.0538}
+  {\path{doi:10.1093/eurheartj/ehab724.0538}}.
+
+\bibitem{linkerAccurateAutomatedDetection2016}
+D.~T. Linker, Accurate, {{Automated Detection}} of {{Atrial Fibrillation}} in
+  {{Ambulatory Recordings}}, Cardiovascular Engineering and Technology 7~(2)
+  (2016) 182--189.
+\newblock \href {https://doi.org/10.1007/s13239-016-0256-z}
+  {\path{doi:10.1007/s13239-016-0256-z}}.
+
+\bibitem{f1score}
+P.~Vittorini, S.~Menini, S.~Tonelli, An ai-based system for formative and
+  summative assessment in data science courses, International Journal of
+  Artificial Intelligence in Education 31 (12 2020).
+\newblock \href {https://doi.org/10.1007/s40593-020-00230-2}
+  {\path{doi:10.1007/s40593-020-00230-2}}.
+
+\bibitem{Feynman1963118}
+R.~Feynman, F.~{Vernon Jr.}, The theory of a general quantum system interacting
+  with a linear dissipative system, Annals of Physics 24 (1963) 118--173.
+\newblock \href {https://doi.org/10.1016/0003-4916(63)90068-X}
+  {\path{doi:10.1016/0003-4916(63)90068-X}}.
+
+\bibitem{Dirac1953888}
+P.~Dirac, The lorentz transformation and absolute time, Physica 19~(1-–12)
+  (1953) 888--896.
+\newblock \href {https://doi.org/10.1016/S0031-8914(53)80099-6}
+  {\path{doi:10.1016/S0031-8914(53)80099-6}}.
+
+\end{thebibliography}

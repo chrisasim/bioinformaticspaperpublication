@@ -1,0 +1,285 @@
+%% BioMed_Central_Bib_Style_v1.01
+
+\begin{thebibliography}{6}
+% BibTex style file: bmc-mathphys.bst (version 2.1), 2014-07-24
+\ifx \bisbn   \undefined \def \bisbn  #1{ISBN #1}\fi
+\ifx \binits  \undefined \def \binits#1{#1}\fi
+\ifx \bauthor  \undefined \def \bauthor#1{#1}\fi
+\ifx \batitle  \undefined \def \batitle#1{#1}\fi
+\ifx \bjtitle  \undefined \def \bjtitle#1{#1}\fi
+\ifx \bvolume  \undefined \def \bvolume#1{\textbf{#1}}\fi
+\ifx \byear  \undefined \def \byear#1{#1}\fi
+\ifx \bissue  \undefined \def \bissue#1{#1}\fi
+\ifx \bfpage  \undefined \def \bfpage#1{#1}\fi
+\ifx \blpage  \undefined \def \blpage #1{#1}\fi
+\ifx \burl  \undefined \def \burl#1{\textsf{#1}}\fi
+\ifx \doiurl  \undefined \def \doiurl#1{\textsf{#1}}\fi
+\ifx \betal  \undefined \def \betal{\textit{et al.}}\fi
+\ifx \binstitute  \undefined \def \binstitute#1{#1}\fi
+\ifx \binstitutionaled  \undefined \def \binstitutionaled#1{#1}\fi
+\ifx \bctitle  \undefined \def \bctitle#1{#1}\fi
+\ifx \beditor  \undefined \def \beditor#1{#1}\fi
+\ifx \bpublisher  \undefined \def \bpublisher#1{#1}\fi
+\ifx \bbtitle  \undefined \def \bbtitle#1{#1}\fi
+\ifx \bedition  \undefined \def \bedition#1{#1}\fi
+\ifx \bseriesno  \undefined \def \bseriesno#1{#1}\fi
+\ifx \blocation  \undefined \def \blocation#1{#1}\fi
+\ifx \bsertitle  \undefined \def \bsertitle#1{#1}\fi
+\ifx \bsnm \undefined \def \bsnm#1{#1}\fi
+\ifx \bsuffix \undefined \def \bsuffix#1{#1}\fi
+\ifx \bparticle \undefined \def \bparticle#1{#1}\fi
+\ifx \barticle \undefined \def \barticle#1{#1}\fi
+\ifx \bconfdate \undefined \def \bconfdate #1{#1}\fi
+\ifx \botherref \undefined \def \botherref #1{#1}\fi
+\ifx \url \undefined \def \url#1{\textsf{#1}}\fi
+\ifx \bchapter \undefined \def \bchapter#1{#1}\fi
+\ifx \bbook \undefined \def \bbook#1{#1}\fi
+\ifx \bcomment \undefined \def \bcomment#1{#1}\fi
+\ifx \oauthor \undefined \def \oauthor#1{#1}\fi
+\ifx \citeauthoryear \undefined \def \citeauthoryear#1{#1}\fi
+\ifx \endbibitem  \undefined \def \endbibitem {}\fi
+\ifx \bconflocation  \undefined \def \bconflocation#1{#1}\fi
+\ifx \arxivurl  \undefined \def \arxivurl#1{\textsf{#1}}\fi
+\csname PreBibitemsHook\endcsname
+
+%%% 1
+\bibitem{puniaElectrographicClinicalNatural2017}
+\begin{barticle}
+\bauthor{\bsnm{Punia}, \binits{V.}},
+\bauthor{\bsnm{Vakani}, \binits{R.}},
+\bauthor{\bsnm{Burgess}, \binits{R.}},
+\bauthor{\bsnm{Hantus}, \binits{S.}}:
+\batitle{Electrographic and {{Clinical Natural History}} of {{Lateralized
+  Periodic Discharges}}}.
+\bjtitle{Journal of Clinical Neurophysiology}
+\bvolume{35},
+\bfpage{1}
+(\byear{2017}).
+doi:\doiurl{10.1097/WNP.0000000000000428}
+\end{barticle}
+\endbibitem
+
+%%% 2
+\bibitem{staerkAtrialFibrillation2017}
+\begin{barticle}
+\bauthor{\bsnm{Staerk}, \binits{L.}},
+\bauthor{\bsnm{Sherer}, \binits{J.A.}},
+\bauthor{\bsnm{Ko}, \binits{D.}},
+\bauthor{\bsnm{Benjamin}, \binits{E.J.}},
+\bauthor{\bsnm{Helm}, \binits{R.H.}}:
+\batitle{Atrial {{Fibrillation}}}.
+\bjtitle{Circulation Research}
+\bvolume{120}(\bissue{9}),
+\bfpage{1501}--\blpage{1517}
+(\byear{2017}).
+doi:\doiurl{10.1161/CIRCRESAHA.117.309732}
+\end{barticle}
+\endbibitem
+
+%%% 3
+\bibitem{osmanElectrographicPredictorsElectrographic2018}
+\begin{botherref}
+\oauthor{\bsnm{Osman}, \binits{G.}},
+\oauthor{\bsnm{Rahangdale}, \binits{R.}},
+\oauthor{\bsnm{Hantus}, \binits{S.}},
+\oauthor{\bsnm{Herlopian}, \binits{A.}},
+\oauthor{\bsnm{Hocker}, \binits{S.}},
+\oauthor{\bsnm{Britton}, \binits{J.}},
+\oauthor{\bsnm{Lee}, \binits{J.W.}},
+\oauthor{\bsnm{Legros}, \binits{B.}},
+\oauthor{\bsnm{Mendoza}, \binits{M.}},
+\oauthor{\bsnm{Punia}, \binits{V.}},
+\oauthor{\bsnm{Wallace}, \binits{A.}},
+\oauthor{\bsnm{Westover}, \binits{M.B.}},
+\oauthor{\bsnm{Gilmore}, \binits{E.}},
+\oauthor{\bsnm{Hirsch}, \binits{L.}},
+\oauthor{\bsnm{Gaspard}, \binits{N.}}:
+Electrographic {{Predictors}} of {{Electrographic Seizures}} and
+  {{Electrographic Status Epilepticus}} in {{Patients}} with {{Bilateral
+  Independent Periodic Discharges}}: {{A Retrospective Multi-Center Study}}
+(2018)
+\end{botherref}
+\endbibitem
+
+%%% 4
+\bibitem{lippiGlobalEpidemiologyAtrial2021}
+\begin{barticle}
+\bauthor{\bsnm{Lippi}, \binits{G.}},
+\bauthor{\bsnm{{Sanchis-Gomar}}, \binits{F.}},
+\bauthor{\bsnm{Cervellin}, \binits{G.}}:
+\batitle{Global epidemiology of atrial fibrillation: {{An}} increasing epidemic
+  and public health challenge}.
+\bjtitle{International Journal of Stroke: Official Journal of the International
+  Stroke Society}
+\bvolume{16}(\bissue{2}),
+\bfpage{217}--\blpage{221}
+(\byear{2021}).
+doi:\doiurl{10.1177/1747493019897870}
+\end{barticle}
+\endbibitem
+
+%%% 5
+\bibitem{chuaDynamicChangesCardiovascular2021}
+\begin{botherref}
+\oauthor{\bsnm{Chua}, \binits{W.}},
+\oauthor{\bsnm{Di~Biase}, \binits{L.}},
+\oauthor{\bsnm{Luna}, \binits{A.}},
+\oauthor{\bsnm{David}, \binits{C.}},
+\oauthor{\bsnm{Haase}, \binits{D.}},
+\oauthor{\bsnm{Hindricks}, \binits{G.}},
+\oauthor{\bsnm{Hauesler}, \binits{K.}},
+\oauthor{\bsnm{{Al-Hussein}}, \binits{R.}},
+\oauthor{\bsnm{Piccini}, \binits{J.}},
+\oauthor{\bsnm{Mont}, \binits{L.}},
+\oauthor{\bsnm{Nielsen}, \binits{J.}},
+\oauthor{\bsnm{Escobar}, \binits{L.}},
+\oauthor{\bsnm{Bono}, \binits{L.}},
+\oauthor{\bsnm{Fabritz}, \binits{L.}},
+\oauthor{\bsnm{Kirchhof}, \binits{P.}}:
+Dynamic changes of cardiovascular biomarkers after ablation for atrial
+  fibrillation: Observations from {{AXAFA-AFNET5}}.
+European Heart Journal
+\textbf{42}
+(2021).
+doi:\doiurl{10.1093/eurheartj/ehab724.0538}
+\end{botherref}
+\endbibitem
+
+%%% 6
+\bibitem{linkerAccurateAutomatedDetection2016}
+\begin{barticle}
+\bauthor{\bsnm{Linker}, \binits{D.T.}}:
+\batitle{Accurate, {{Automated Detection}} of {{Atrial Fibrillation}} in
+  {{Ambulatory Recordings}}}.
+\bjtitle{Cardiovascular Engineering and Technology}
+\bvolume{7}(\bissue{2}),
+\bfpage{182}--\blpage{189}
+(\byear{2016}).
+doi:\doiurl{10.1007/s13239-016-0256-z}
+\end{barticle}
+\endbibitem
+
+\end{thebibliography}
+
+\newcommand{\BMCxmlcomment}[1]{}
+
+\BMCxmlcomment{
+
+<refgrp>
+
+<bibl id="B1">
+  <title><p>Electrographic and {{Clinical Natural History}} of {{Lateralized
+  Periodic Discharges}}</p></title>
+  <aug>
+    <au><snm>Punia</snm><fnm>V</fnm></au>
+    <au><snm>Vakani</snm><fnm>R</fnm></au>
+    <au><snm>Burgess</snm><fnm>R</fnm></au>
+    <au><snm>Hantus</snm><fnm>S</fnm></au>
+  </aug>
+  <source>Journal of Clinical Neurophysiology</source>
+  <pubdate>2017</pubdate>
+  <volume>35</volume>
+  <fpage>1</fpage>
+</bibl>
+
+<bibl id="B2">
+  <title><p>Atrial {{Fibrillation}}</p></title>
+  <aug>
+    <au><snm>Staerk</snm><fnm>L</fnm></au>
+    <au><snm>Sherer</snm><fnm>JA</fnm></au>
+    <au><snm>Ko</snm><fnm>D</fnm></au>
+    <au><snm>Benjamin</snm><fnm>EJ</fnm></au>
+    <au><snm>Helm</snm><fnm>RH</fnm></au>
+  </aug>
+  <source>Circulation Research</source>
+  <publisher>{American Heart Association}</publisher>
+  <pubdate>2017</pubdate>
+  <volume>120</volume>
+  <issue>9</issue>
+  <fpage>1501</fpage>
+  <lpage>-1517</lpage>
+</bibl>
+
+<bibl id="B3">
+  <title><p>Electrographic {{Predictors}} of {{Electrographic Seizures}} and
+  {{Electrographic Status Epilepticus}} in {{Patients}} with {{Bilateral
+  Independent Periodic Discharges}}: {{A Retrospective Multi-Center
+  Study}}</p></title>
+  <aug>
+    <au><snm>Osman</snm><fnm>G</fnm></au>
+    <au><snm>Rahangdale</snm><fnm>R</fnm></au>
+    <au><snm>Hantus</snm><fnm>S</fnm></au>
+    <au><snm>Herlopian</snm><fnm>A</fnm></au>
+    <au><snm>Hocker</snm><fnm>S</fnm></au>
+    <au><snm>Britton</snm><fnm>J</fnm></au>
+    <au><snm>Lee</snm><fnm>JW</fnm></au>
+    <au><snm>Legros</snm><fnm>B</fnm></au>
+    <au><snm>Mendoza</snm><fnm>M</fnm></au>
+    <au><snm>Punia</snm><fnm>V</fnm></au>
+    <au><snm>Wallace</snm><fnm>A</fnm></au>
+    <au><snm>Westover</snm><fnm>MB</fnm></au>
+    <au><snm>Gilmore</snm><fnm>E</fnm></au>
+    <au><snm>Hirsch</snm><fnm>L</fnm></au>
+    <au><snm>Gaspard</snm><fnm>N</fnm></au>
+  </aug>
+  <pubdate>2018</pubdate>
+</bibl>
+
+<bibl id="B4">
+  <title><p>Global Epidemiology of Atrial Fibrillation: {{An}} Increasing
+  Epidemic and Public Health Challenge</p></title>
+  <aug>
+    <au><snm>Lippi</snm><fnm>G</fnm></au>
+    <au><snm>{Sanchis-Gomar}</snm><fnm>F</fnm></au>
+    <au><snm>Cervellin</snm><fnm>G</fnm></au>
+  </aug>
+  <source>International Journal of Stroke: Official Journal of the
+  International Stroke Society</source>
+  <pubdate>2021</pubdate>
+  <volume>16</volume>
+  <issue>2</issue>
+  <fpage>217</fpage>
+  <lpage>-221</lpage>
+</bibl>
+
+<bibl id="B5">
+  <title><p>Dynamic Changes of Cardiovascular Biomarkers after Ablation for
+  Atrial Fibrillation: Observations from {{AXAFA-AFNET5}}</p></title>
+  <aug>
+    <au><snm>Chua</snm><fnm>W</fnm></au>
+    <au><snm>Di Biase</snm><fnm>L</fnm></au>
+    <au><snm>Luna</snm><fnm>A</fnm></au>
+    <au><snm>David</snm><fnm>C</fnm></au>
+    <au><snm>Haase</snm><fnm>D</fnm></au>
+    <au><snm>Hindricks</snm><fnm>G</fnm></au>
+    <au><snm>Hauesler</snm><fnm>K</fnm></au>
+    <au><snm>{Al-Hussein}</snm><fnm>R</fnm></au>
+    <au><snm>Piccini</snm><fnm>J</fnm></au>
+    <au><snm>Mont</snm><fnm>L.</fnm></au>
+    <au><snm>Nielsen</snm><fnm>J</fnm></au>
+    <au><snm>Escobar</snm><fnm>L</fnm></au>
+    <au><snm>Bono</snm><fnm>L</fnm></au>
+    <au><snm>Fabritz</snm><fnm>L</fnm></au>
+    <au><snm>Kirchhof</snm><fnm>P</fnm></au>
+  </aug>
+  <source>European Heart Journal</source>
+  <pubdate>2021</pubdate>
+  <volume>42</volume>
+</bibl>
+
+<bibl id="B6">
+  <title><p>Accurate, {{Automated Detection}} of {{Atrial Fibrillation}} in
+  {{Ambulatory Recordings}}</p></title>
+  <aug>
+    <au><snm>Linker</snm><fnm>DT</fnm></au>
+  </aug>
+  <source>Cardiovascular Engineering and Technology</source>
+  <pubdate>2016</pubdate>
+  <volume>7</volume>
+  <issue>2</issue>
+  <fpage>182</fpage>
+  <lpage>-189</lpage>
+</bibl>
+
+</refgrp>
+} % end of \BMCxmlcomment

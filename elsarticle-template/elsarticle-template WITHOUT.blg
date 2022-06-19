@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: elsarticle-template WITHOUT.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+The style file: elsarticle-num.bst
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+Database file #1: mybibfile.bib
+Warning--empty journal in osmanElectrographicPredictorsElectrographic2018
+You've used 7 entries,
+            2952 wiz_defined-function locations,
+            724 strings with 7642 characters,
+and the built_in function-call counts, 2431 in all, are:
+= -- 211
+> -- 145
+< -- 0
++ -- 53
+- -- 46
+* -- 216
+:= -- 390
+add.period$ -- 13
+call.type$ -- 7
+change.case$ -- 7
+chr.to.int$ -- 0
+cite$ -- 8
+duplicate$ -- 55
+empty$ -- 219
+format.name$ -- 52
+if$ -- 579
+int.to.chr$ -- 0
+int.to.str$ -- 7
+missing$ -- 7
+newline$ -- 35
+num.names$ -- 7
+pop$ -- 31
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 140
+stack$ -- 0
+substring$ -- 84
+swap$ -- 19
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 14
+width$ -- 8
+write$ -- 76
+(There was 1 warning)
